@@ -10,7 +10,7 @@ Overview of my app, micro-frontend, and micro-service architecture.
 
 ```mermaid
 graph TD;
-   app-todo
+   todo
 ```
 
 ## CI Development Pipeline
@@ -28,7 +28,7 @@ flowchart LR;
 
 ## Apps
 
-### [Todo](https://github.com/griffinodow/app-todo)
+### [Todo](https://github.com/griffinodow/todo)
 
 My very first app. A todo list management app based on React & Redux. Create lists, add tasks to lists, and mark them as complete.
 
