@@ -2,7 +2,7 @@
 
 # Portfolio
 
-Welcome to my GitHub portfolio. This is where I showcase my technical ability and expertise.
+Welcome to my GitHub portfolio. This is where I showcase my technical ability and expertise. I am a Full-Stack Software Engineer that specializes in React, Redux, NodeJS, and AWS.
 
 ## Architecture
 
