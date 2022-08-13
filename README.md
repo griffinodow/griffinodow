@@ -28,7 +28,7 @@ flowchart LR;
 
 ## Apps
 
-### [Todo](https://github.com/griffinodow/todo)
+### [todo](https://github.com/griffinodow/todo)
 
 My very first app. A todo list management web app based on React & Redux. Create lists, add tasks to lists, and mark them as complete.
 
@@ -37,3 +37,7 @@ My very first app. A todo list management web app based on React & Redux. Create
 ## Micro-Services
 
 ## Libraries
+
+### [god-components](https://github.com/griffinodow/god-components)
+
+React component UI library for my portfolio. Used to create my design language and have well tested components for my website, apps, and MFEs.
