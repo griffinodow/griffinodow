@@ -30,7 +30,7 @@ flowchart LR;
 
 ### [Todo](https://github.com/griffinodow/todo)
 
-My very first app. A todo list management app based on React & Redux. Create lists, add tasks to lists, and mark them as complete.
+My very first app. A todo list management web app based on React & Redux. Create lists, add tasks to lists, and mark them as complete.
 
 ## Micro-Frontends
 
