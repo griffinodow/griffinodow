@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio. This is where I showcase my technical ability an
 
 ## Architecture
 
-Overview of my app, micro-frontend, and micro-service architecture.
+Overview of my app and micro-service architecture. In the future I plan to implement micro-frontends when I have more apps.
 
 ```mermaid
 graph TD;
@@ -31,8 +31,6 @@ flowchart LR;
 ### [todo](https://github.com/griffinodow/todo)
 
 My very first app. A todo list management web app based on React & Redux. Create lists, add tasks to lists, and mark them as complete.
-
-## Micro-Frontends
 
 ## Micro-Services
 
