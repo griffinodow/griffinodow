@@ -1,41 +1,5 @@
 ### Hi there 👋
 
-# Portfolio
+Welcome to my GitHub portfolio. This is my example of a full-stack web application built with: React, Redux, NodeJS, AWS, and GitHub.
 
-Welcome to my GitHub portfolio. This is where I showcase my technical ability and expertise. I am a Full-Stack Software Engineer that specializes in React, Redux, NodeJS, and AWS.
-
-## Architecture
-
-Overview of my app and micro-service architecture. In the future I plan to implement micro-frontends when I have more apps.
-
-```mermaid
-graph TD;
-   todo
-```
-
-## CI Development Pipeline
-
-My development pipeline powered by GitHub Actions.
-
-```mermaid
-flowchart LR;
-  A["Push"]
-  -->B["Build"]
-  -->C["Unit Test"]
-  -->D["E2E Test"]
-  -->E["Deploy to AWS"]
-```
-
-## Apps
-
-### [todo](https://github.com/griffinodow/todo)
-
-My very first app. A todo list management web app based on React & Redux. Create lists, add tasks to lists, and mark them as complete.
-
-## Micro-Services
-
-## Libraries
-
-### [god-components](https://github.com/griffinodow/god-components)
-
-React component UI library for my portfolio. Used to create my design language and have well tested components for my website, apps, and MFEs.
+Checkout my pinned repositories below to see each component of the web app.
