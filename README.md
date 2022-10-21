@@ -6,6 +6,12 @@ Checkout my pinned repositories below to see each component of the web app.
 
 # Skills
 
+## Environments
+
+- Browser
+- NodeJS
+- Docker
+
 ## Languages
 
 - JavaScript & TypeScript
