@@ -21,6 +21,7 @@ Checkout my pinned repositories below to see each component of the web app.
 
 ## Frameworks
 
+- AWS CDK
 - React
 - Redux
 - Jest
