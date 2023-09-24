@@ -1,6 +1,7 @@
 @import "./styles/colors";
 @import "./styles/typography";
 @import "./styles/layout";
+@import "./styles/animations";
 
 body {
   color: var(--on-background);
@@ -41,4 +42,5 @@ footer {
   justify-content: center;
   gap: 18px;
   padding: 40px;
+  overflow: hidden;
 }
