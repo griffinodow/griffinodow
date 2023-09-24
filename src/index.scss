@@ -1,0 +1,44 @@
+@import "./styles/colors";
+@import "./styles/typography";
+@import "./styles/layout";
+
+body {
+  color: var(--on-background);
+  background-color: var(--background);
+  background-image: linear-gradient(
+    62deg,
+    var(--background) 0%,
+    var(--secondary-background) 100%
+  );
+  min-height: 100vh;
+}
+
+header {
+  text-align: center;
+  position: absolute;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 35px;
+  padding: 50px;
+}
+
+@media (max-width: 767px) {
+  header {
+    padding: 20px;
+  }
+}
+
+footer {
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 18px;
+  padding: 40px;
+}
